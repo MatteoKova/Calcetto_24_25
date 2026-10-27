@@ -1,0 +1,70 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 23-feb-2020, 12.24.39
+    Author     : devis
+*/
+
+li a.active {
+    background-color: lightgrey;
+}
+
+body
+{
+    max-width: 75%;
+    margin-left: 12.5%;
+}
+
+div.citazione {
+    text-align: justify;
+}
+
+div.citazione > blockquote > p {
+    font-style: italic;
+}
+
+.header-sezione {
+    border-bottom: 2px solid #040404;
+    margin-bottom: 2em;
+}
+
+.navbar-brand {
+    display: inline-block;
+    width: 160px;
+    background: url(../img/soccerBall.jpg) no-repeat;
+    background-size: cover;
+    background-position: 40% 65%;
+    text-indent: -9999px;
+}
+
+.confirm {
+    font-size: 1.25rem; 
+    line-height: 1.6; 
+    margin-bottom: 1.5rem; 
+    font-style: italic;
+}
+
+* {
+  text-decoration: none !important;
+}
+
+.invalid-input {
+    color: #bd2626;
+    font-weight: bold;
+}
+
+.disabled-link {
+    pointer-events: none;
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.avatar-img {
+    max-width: 200px;
+    border: 1px solid black;
+    padding: 4px;
+    background-color: white; /* opzionale, se vuoi evidenziarla */
+}

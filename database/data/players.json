@@ -1,0 +1,249 @@
+[
+  {
+    "user": {
+      "name": "Mattia",
+      "email": "m.casnici@example.com",
+      "password": "casnici0!"
+    },
+    "player": {
+      "name": "Mattia",
+      "nickname": "Tia",
+      "favRole": "Attacker",
+      "avatar": "avatars/defaultAvatar.png"
+    }
+  },
+  {
+    "user": {
+      "name": "Matteo",
+      "email": "m.kovacic@example.com",
+      "password": "kovacic0!"
+    },
+    "player": {
+      "name": "Matteo",
+      "nickname": "Matte",
+      "favRole": "Defender",
+      "avatar": "avatars/Matteo.jpg"
+    }
+  },
+  {
+    "user": {
+      "name": "Riccardo",
+      "email": "r.savoldi@example.com",
+      "password": "savoldi0!"
+    },
+    "player": {
+      "name": "Riccardo",
+      "nickname": "Ricky",
+      "favRole": "Center",
+      "avatar": "avatars/defaultAvatar.png"
+    }
+  },
+  {
+    "user": {
+      "name": "Pashtim",
+      "email": "p.lelo@example.com",
+      "password": "lelo000!"
+    },
+    "player": {
+      "name": "Pashtim",
+      "nickname": "Timi",
+      "favRole": "Defender",
+      "avatar": "avatars/defaultAvatar.png"
+    }
+  },
+  {
+    "user": {
+      "name": "Gabriele",
+      "email": "g.idk@example.com",
+      "password": "idk0000!"
+    },
+    "player": {
+      "name": "Gabriele",
+      "nickname": "Gabbo",
+      "favRole": "Attacker",
+      "avatar": "avatars/defaultAvatar.png"
+    }
+  },
+  {
+    "user": {
+      "name": "Paolo",
+      "email": "p.idk@example.com",
+      "password": "idk0000!"
+    },
+    "player": {
+      "name": "Paolo",
+      "nickname": "Paolo",
+      "favRole": "Goalkeeper",
+      "avatar": "avatars/defaultAvatar.png"
+    }
+  },
+  {
+    "user": {
+      "name": "Luca",
+      "email": "l.mutti@example.com",
+      "password": "mutti00!"
+    },
+    "player": {
+      "name": "Luca",
+      "nickname": "Luca",
+      "favRole": "Center",
+      "avatar": "avatars/defaultAvatar.png"
+    }
+  },
+  {
+    "user": {
+      "name": "Lorenzo",
+      "email": "l.papa@example.com",
+      "password": "papa000!"
+    },
+    "player": {
+      "name": "Lorenzo",
+      "nickname": "Lore",
+      "favRole": "Center",
+      "avatar": "avatars/defaultAvatar.png"
+    }
+  },
+  {
+    "user": {
+      "name": "Andrea",
+      "email": "a.torosani@example.com",
+      "password": "torosani0!"
+    },
+    "player": {
+      "name": "Andrea",
+      "nickname": "Toro",
+      "favRole": "Attacker",
+      "avatar": "avatars/Andrea.png"
+    }
+  },
+  {
+    "user": {
+      "name": "Massimo",
+      "email": "m.cordini@example.com",
+      "password": "cordini0!"
+    },
+    "player": {
+      "name": "Massimo",
+      "nickname": "Max",
+      "favRole": "Attacker",
+      "avatar": "avatars/defaultAvatar.png"
+    }
+  },
+  {
+    "user": {
+      "name": "Federico",
+      "email": "f.bagnalasta@example.com",
+      "password": "bagnalasta0!"
+    },
+    "player": {
+      "name": "Federico",
+      "nickname": "Bagna",
+      "favRole": "Defender",
+      "avatar": "avatars/defaultAvatar.png"
+    }
+  },
+  {
+    "user": {
+      "name": "Giovanni",
+      "email": "g.darcangelo@example.com",
+      "password": "darcangelo0!"
+    },
+    "player": {
+      "name": "Giovanni",
+      "nickname": "Gio",
+      "favRole": "Center",
+      "avatar": "avatars/defaultAvatar.png"
+    }
+  },
+  {
+    "user": {
+      "name": "Marco",
+      "email": "m.grazioli@example.com",
+      "password": "grazioli0!"
+    },
+    "player": {
+      "name": "Marco",
+      "nickname": "Grazio",
+      "favRole": "Defender",
+      "avatar": "avatars/defaultAvatar.png"
+    }
+  },
+  {
+    "user": {
+      "name": "Lodovico",
+      "email": "l.paghera@example.com",
+      "password": "paghera0!"
+    },
+    "player": {
+      "name": "Lodovico",
+      "nickname": "Lodo",
+      "favRole": "Defender",
+      "avatar": "avatars/defaultAvatar.png"
+    }
+  },
+  {
+    "user": {
+      "name": "Gilberto",
+      "email": "g.bertazzi@example.com",
+      "password": "bertazzi0!"
+    },
+    "player": {
+      "name": "Gilberto",
+      "nickname": "Gilbo",
+      "favRole": "Center",
+      "avatar": "avatars/Gilberto.png"
+    }
+  },
+  {
+    "user": {
+      "name": "Simone",
+      "email": "s.mansueti@example.com",
+      "password": "mansueti0!"
+    },
+    "player": {
+      "name": "Simone",
+      "nickname": "Simo",
+      "favRole": "Center",
+      "avatar": "avatars/defaultAvatar.png"
+    }
+  },
+  {
+    "user": {
+      "name": "Samuele",
+      "email": "s.zambellic@example.com",
+      "password": "zambelli0!"
+    },
+    "player": {
+      "name": "Samuele",
+      "nickname": "Samu",
+      "favRole": "Defender",
+      "avatar": "avatars/defaultAvatar.png"
+    }
+  },
+  {
+    "user": {
+      "name": "Albi",
+      "email": "a.sotja@example.com",
+      "password": "sotja00!"
+    },
+    "player": {
+      "name": "Albi",
+      "nickname": "Albanese",
+      "favRole": "Center",
+      "avatar": "avatars/Albi.png"
+    }
+  },
+  {
+    "user": {
+      "name": "Giulio",
+      "email": "g.bazzoli@example.com",
+      "password": "bazzoli0!"
+    },
+    "player": {
+      "name": "Giulio",
+      "nickname": "Bazzo",
+      "favRole": "Defender",
+      "avatar": "avatars/defaultAvatar.png"
+    }
+  }
+]
