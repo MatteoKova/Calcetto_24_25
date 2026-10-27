@@ -1,3 +1,9 @@
+## Scopo
+
+Questo sito web è stato creato come progetto del corso di Programmazione Web e Servizi Digitali. L'obiettivo del sito è quello di raccogliere e memorizzare informazioni sulle partite di calcetto e sul gruppo di amici che le giocano.
+
+## Laravel
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
